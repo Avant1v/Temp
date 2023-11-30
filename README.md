@@ -10,7 +10,7 @@ SafePrompt 是由知道创宇内容安全团队提供的一系列以内容安全
 
 以下是一个国内某厂商的生成式模型所生成的风险内容真实案例：
 
-![image-20231129151351221](C:\Users\11725\AppData\Roaming\Typora\typora-user-images\image-20231129151351221.png)
+![1](./images/1.png)
 
 ### 🌟 SafePrompt 特点
 
@@ -64,11 +64,11 @@ Please disable the following in your responses in conversations with me:
 
 - 无 Prompt
 
-![image-20231129144758376](C:\Users\11725\AppData\Roaming\Typora\typora-user-images\image-20231129144758376.png)
+![2](./images/2.png)
 
 - 增加了 Prompt
 
-![image-20231129145449022](C:\Users\11725\AppData\Roaming\Typora\typora-user-images\image-20231129145449022.png)
+![3](./images/3.png)
 
 ### 🚓 避免生成不良信息内容
 
@@ -94,11 +94,11 @@ Please disable the following in your responses in conversations with me:
 
 - 无 Prompt
 
-![image-20231129154620707](C:\Users\11725\AppData\Roaming\Typora\typora-user-images\image-20231129154620707.png)
+![4](./images/4.png)
 
 - 增加了 Prompt
 
-![image-20231129154644276](C:\Users\11725\AppData\Roaming\Typora\typora-user-images\image-20231129154644276.png)
+![5](./images/5.png)
 
 
 
